@@ -16,6 +16,8 @@ Open web browser to look at a simple php example at [http://localhost:8001](http
 
 Run mysql client:
 
+password test
+
 - `docker-compose exec db mysql -u root -p` 
 
 Enjoy !
